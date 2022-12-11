@@ -28,10 +28,8 @@
 ---
 <div align='center'> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dougAlvs&show_icons=true&theme=transparent)
+![Snake animation](https://github.com/dougAlvs/dougAlvs/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
-![Snake animation](https://github.com/seu-usuário-aqui/dougAlvs/blob/output/github-contribution-grid-snake.svg)
-
- 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dougAlvs&show_icons=true&theme=transparent)
