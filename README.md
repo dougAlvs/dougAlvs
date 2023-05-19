@@ -18,9 +18,10 @@
 
 ### 📚 What am I currently learning?
 
-- Data structures in C
-- Agile software development
-- Natural language processing and text classification with python
+- Non linear data structures in C 
+- Relational model and MySQL databases 
+- Software requirements engineering
+- Black-box software testing
 
 ### ☎️ Find me!
 - 📧 douglasvestos@gmail.com
