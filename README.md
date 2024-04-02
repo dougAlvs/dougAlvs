@@ -18,11 +18,10 @@
 
 ### 📚 What am I currently learning?
 
-- Graphs, greedy, divide and conquer and dynamic programming algorithms
-- Software quality measurement 
-- Software architecture and design
-- Operating systems foundations
-- Density-Based data clustering
+- Computational geometry
+- Software refactoring
+- Embedded systems foundations
+- Machine Learning techniques
   
 ### ☎️ Find me!
 - 📧 douglasvestos@gmail.com
