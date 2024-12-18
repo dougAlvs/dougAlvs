@@ -18,10 +18,9 @@
 
 ### 📚 What am I currently learning?
 
-- Computational geometry
-- Software refactoring
-- Embedded systems foundations
-- Machine Learning techniques
+- Fundamentals of computer networking
+- Relational Databases Optmization
+- Software Configuration Management
   
 ### ☎️ Find me!
 - 📧 douglasvestos@gmail.com
